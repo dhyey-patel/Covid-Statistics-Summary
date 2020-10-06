@@ -17,3 +17,5 @@ g++ Country.cpp CountryCollection.cpp CovidStatistics.cpp -o CovidData
 
 And run the program with:
 ./Covid Data
+
+Hope you are able to get quick summary statistics with this code!! :)
